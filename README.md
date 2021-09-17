@@ -2,7 +2,7 @@
 
 <h4> Tools and Frameworks </h4>
 
-<a href="https://vuejs.org/" target="_blank">
+<a href="https://www.php.net/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a>
 
@@ -16,8 +16,8 @@
 
 <h4> Stats </h4>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joowdx&show_icons=true&locale=en" alt="joowdx" />
+<img src="https://github-readme-stats.vercel.app/api?username=joowdx&show_icons=true&locale=en&include_all_commits=true&theme=graywhite" alt="joowdx" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joowdx&" alt="joowdx" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joowdx&theme=graywhite" alt="joowdx" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joowdx&show_icons=true&locale=en&layout=compact" alt="joowdx" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joowdx&show_icons=true&locale=en&theme=graywhite" alt="joowdx" />
