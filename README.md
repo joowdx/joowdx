@@ -1,8 +1,12 @@
-<h1>Hi there! <img src="https://raw.githubusercontent.com/joowdx/joowdx/master/icons/wave.gif" width="30px"> </h1>
+<h1>
+    Hi there!
+    ![wave](https://user-images.githubusercontent.com/27247592/133912489-2bda35fc-24d9-4762-a8e7-e5255720e7c5.gif)
+</h1>
 
 https://joowdx.github.io/
 
 <h4> Tools and Frameworks </h4>
+
 
 <a href="https://www.php.net/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
