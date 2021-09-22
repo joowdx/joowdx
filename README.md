@@ -15,11 +15,3 @@ https://joowdx.github.io/
 <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a>
-
-<h4> Stats </h4>
-
-<img src="https://github-readme-stats.vercel.app/api?username=joowdx&show_icons=true&locale=en&include_all_commits=true&theme=graywhite" alt="joowdx" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joowdx&theme=graywhite" alt="joowdx" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joowdx&show_icons=true&locale=en&theme=graywhite" alt="joowdx" />
