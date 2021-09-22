@@ -4,7 +4,7 @@ https://joowdx.github.io/
 <h4> Tools and Frameworks </h4>
 
 
-<a href="https://www.php.net/" target="_blank">
+<a href="https://v3.vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a>
 
